@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi, I'm David 👋
+
+- :computer: I'm currently working on [@nosolosoftware](https://github.com/nosolosoftware) as Full Stack Developer
+- :hammer_and_wrench: VueJS and Ruby On Rails
+- :raised_hand: Javascript, Ruby, TDD, Scrum, Agile, Mobile
+- :hearts: I love to learn new things, improve my skills, help my teammates and think about how to refactor
+- :seedling: I'm currently learning Flutter and React Native
+- :mailbox: daviluqui@gmail.com
 
 <!--
 **Davids89/Davids89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
